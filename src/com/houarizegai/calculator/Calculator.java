@@ -7,7 +7,8 @@ import java.util.regex.Pattern;
 import java.awt.Color;
 import javax.swing.*;
 import java.lang.Math;
-// Added comment for github commit
+// Added comment for github commit 
+// Added new comment in pahase 2 
 public class Calculator {
 
     private static final int WINDOW_WIDTH = 410;
